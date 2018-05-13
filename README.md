@@ -1,2 +1,2 @@
 # matchinggame
-Matching game im Jahr 2012
+> Simple all-time classical Matching game
